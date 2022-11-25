@@ -219,7 +219,7 @@
 		"@rocket.chat/fuselage-tokens": "0.31.21",
 		"@rocket.chat/fuselage-ui-kit": "0.31.21",
 		"@rocket.chat/gazzodown": "workspace:^",
-		"@rocket.chat/icons": "0.31.21",
+		"@rocket.chat/icons": "next",
 		"@rocket.chat/layout": "next",
 		"@rocket.chat/logo": "0.31.21",
 		"@rocket.chat/memo": "0.31.21",

@@ -5492,7 +5492,7 @@ __metadata:
   dependencies:
     "@rocket.chat/apps-engine": ^1.32.0
     "@rocket.chat/eslint-config": "workspace:^"
-    "@rocket.chat/icons": 0.31.21
+    "@rocket.chat/icons": next
     "@rocket.chat/message-parser": next
     "@rocket.chat/ui-kit": 0.31.21
     eslint: ^8.20.0
@@ -5745,7 +5745,7 @@ __metadata:
     "@rocket.chat/fuselage": 0.31.21
     "@rocket.chat/fuselage-hooks": 0.31.21
     "@rocket.chat/fuselage-polyfills": 0.31.21
-    "@rocket.chat/icons": 0.31.21
+    "@rocket.chat/icons": next
     "@rocket.chat/prettier-config": next
     "@rocket.chat/styled": 0.31.21
     "@rocket.chat/ui-kit": 0.31.21
@@ -5867,10 +5867,10 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@rocket.chat/icons@npm:0.31.21":
-  version: 0.31.21
-  resolution: "@rocket.chat/icons@npm:0.31.21"
-  checksum: 8f5e92b26a679f3d5b86abec3b185b61f579d04c927c1e430c3172f9e462d2d6f00816b1e6faefeca08ac415e2b8520739a481a233462c5c09c30b2edbd5d4e2
+"@rocket.chat/icons@npm:next":
+  version: 0.32.0-dev.190
+  resolution: "@rocket.chat/icons@npm:0.32.0-dev.190"
+  checksum: cd4003711336f4934821a20308a1c038c4f6eba0c701c8a7439430b53dab6bb829ec4d6e44943a43ed903ba13cdde0f2f35f9f92d3d8c0adaba8a6abb8968462
   languageName: node
   linkType: hard
 
@@ -6036,7 +6036,7 @@ __metadata:
     "@rocket.chat/fuselage-tokens": 0.31.21
     "@rocket.chat/fuselage-ui-kit": 0.31.21
     "@rocket.chat/gazzodown": "workspace:^"
-    "@rocket.chat/icons": 0.31.21
+    "@rocket.chat/icons": next
     "@rocket.chat/layout": next
     "@rocket.chat/livechat": "workspace:^"
     "@rocket.chat/logo": 0.31.21
@@ -6560,7 +6560,7 @@ __metadata:
     "@rocket.chat/css-in-js": 0.31.21
     "@rocket.chat/fuselage": 0.31.21
     "@rocket.chat/fuselage-hooks": 0.31.21
-    "@rocket.chat/icons": 0.31.21
+    "@rocket.chat/icons": next
     "@rocket.chat/ui-contexts": "workspace:~"
     "@storybook/addon-actions": ~6.5.10
     "@storybook/addon-docs": ~6.5.10
@@ -6607,7 +6607,7 @@ __metadata:
     "@babel/core": ~7.18.13
     "@rocket.chat/eslint-config": "workspace:^"
     "@rocket.chat/fuselage": 0.31.21
-    "@rocket.chat/icons": 0.31.21
+    "@rocket.chat/icons": next
     "@storybook/addon-actions": ~6.5.12
     "@storybook/addon-docs": ~6.5.12
     "@storybook/addon-essentials": ~6.5.12
@@ -6674,7 +6674,7 @@ __metadata:
     "@rocket.chat/css-in-js": 0.31.21
     "@rocket.chat/fuselage": 0.31.21
     "@rocket.chat/fuselage-hooks": 0.31.21
-    "@rocket.chat/icons": 0.31.21
+    "@rocket.chat/icons": next
     "@rocket.chat/ui-contexts": "workspace:~"
     "@storybook/addon-actions": ~6.5.10
     "@storybook/addon-docs": ~6.5.10
@@ -31005,7 +31005,7 @@ __metadata:
     "@rocket.chat/apps-engine": ^1.32.0
     "@rocket.chat/core-typings": "workspace:^"
     "@rocket.chat/emitter": 0.31.21
-    "@rocket.chat/icons": 0.31.21
+    "@rocket.chat/icons": next
     "@rocket.chat/message-parser": next
     "@rocket.chat/model-typings": "workspace:^"
     "@rocket.chat/models": "workspace:^"
